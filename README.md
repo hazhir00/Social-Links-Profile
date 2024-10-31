@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL here](https://github.com/hazhir00/Social-Links-Profile.git)
-- Live Site URL: [Live site URL here](https://social-links-profile-front-mentor003.netlify.app/)
+- Live Site URL: [Live site URL here](https://social-links-profile-front-mentor003.netlify.app)
 
 ## My process
 
